@@ -6,8 +6,8 @@ public class Main {
 
         int a = 6;
         System.out.println(a);
-        int x = 4;
+        int x = 14;
         System.out.println(x);
-        //OPOPOPO
+
     }
 }
