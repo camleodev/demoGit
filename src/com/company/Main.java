@@ -6,7 +6,7 @@ public class Main {
 
         int a = 26;
         System.out.println(a);
-        int x = 54;
+        int x = 594;
         System.out.println(x);
 
     }
